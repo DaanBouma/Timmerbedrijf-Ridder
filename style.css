@@ -4,6 +4,7 @@
 #navbar-titel {
     color: white;
     margin-right: 40px;
+    font-family: "Manuale", serif !important;
 }
 #logo2 {
     height: 50px;
@@ -11,4 +12,10 @@
 }
 .nav-link {
     color: white !important;
+    font-family: "Manuale", serif !important;
+}
+
+.button {
+    background-color: #7A2430 !important;
+    color: #7A2430 !important;
 }
