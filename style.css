@@ -19,3 +19,26 @@
     background-color: #7A2430 !important;
     color: #7A2430 !important;
 }
+#title {
+    font-weight: bold;
+}
+
+#textbox {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#fund {
+    width: 100%;
+}
+#fundbox {
+    margin-top: 20px;
+}
+#adam {
+    width: 100%;
+}
+#adambox {
+    margin-top: 20px;
+}
+body {
+    overflow-x: hidden;
+}
