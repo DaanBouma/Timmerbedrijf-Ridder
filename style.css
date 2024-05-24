@@ -1,3 +1,14 @@
 #navbar-color {
     background-color: #7A2430 !important;
 }
+#navbar-titel {
+    color: white;
+    margin-right: 40px;
+}
+#logo2 {
+    height: 50px;
+    margin-right: 10px;
+}
+.nav-link {
+    color: white !important;
+}
