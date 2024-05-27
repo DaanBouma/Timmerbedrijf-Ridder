@@ -42,3 +42,15 @@
 body {
     overflow-x: hidden;
 }
+#section {
+    background-color: #7A2430;
+    height: 300px;
+    width: 100vw;
+    margin-top: 20px;
+    margin-bottom: 1000px;
+}
+body::-webkit-scrollbar {
+    display: none;
+    margin: 0;
+    padding: 0;
+}
